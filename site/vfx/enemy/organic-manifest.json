@@ -1,0 +1,42 @@
+{
+  "earth": {
+    "file": "organic-earth.webp",
+    "frames": 4,
+    "w": 384,
+    "h": 384,
+    "pivotX": 0.5,
+    "pivotY": 0.75,
+    "bytes": 211402,
+    "sha256": "dbb5b58cabc1b3211713fbf50f2151b36efcb3a0048b68298b8c94d8e4c27d22"
+  },
+  "ice": {
+    "file": "organic-ice.webp",
+    "frames": 4,
+    "w": 384,
+    "h": 384,
+    "pivotX": 0.5,
+    "pivotY": 0.75,
+    "bytes": 238662,
+    "sha256": "a1b92053da21bcd030468974c583f4f8887dc6b429ccbd49d4ddf735667eca7b"
+  },
+  "void": {
+    "file": "organic-void.webp",
+    "frames": 4,
+    "w": 384,
+    "h": 384,
+    "pivotX": 0.5,
+    "pivotY": 0.75,
+    "bytes": 244030,
+    "sha256": "6990edbe68184b10ba6a769b767fa7f0d482c2455c2ca1a859d5563fbfa21d5f"
+  },
+  "fire": {
+    "file": "organic-fire.webp",
+    "frames": 4,
+    "w": 384,
+    "h": 384,
+    "pivotX": 0.5,
+    "pivotY": 0.75,
+    "bytes": 230514,
+    "sha256": "63549a102739cb5e7d2fa216fd14eb670761c690523cec593d1de40005180cf8"
+  }
+}

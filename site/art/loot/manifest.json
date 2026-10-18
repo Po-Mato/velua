@@ -1,0 +1,322 @@
+{
+  "version": 1,
+  "sheets": {
+    "accessories-v2": {
+      "width": 848,
+      "height": 1187,
+      "file": "accessories-v2.webp",
+      "sha256": "c30f241da34d6951d9fb5185cdb214ae9e701a599e5bbd32e184c9ec0fb6578a",
+      "bytes": 409026
+    },
+    "supplies": {
+      "width": 887,
+      "height": 444,
+      "file": "supplies.webp",
+      "sha256": "4fe16890fe4eb5df435dc4881ca0dcf797e19d04d157bc313e5fb7db5ec78a44",
+      "bytes": 162956
+    }
+  },
+  "frames": {
+    "charm-0": {
+      "sheet": "accessories-v2",
+      "x": 33,
+      "y": 38,
+      "width": 122,
+      "height": 142
+    },
+    "ring-0": {
+      "sheet": "accessories-v2",
+      "x": 204,
+      "y": 66,
+      "width": 108,
+      "height": 102
+    },
+    "earrings-0": {
+      "sheet": "accessories-v2",
+      "x": 365,
+      "y": 55,
+      "width": 112,
+      "height": 119
+    },
+    "necklace-0": {
+      "sheet": "accessories-v2",
+      "x": 528,
+      "y": 26,
+      "width": 116,
+      "height": 160
+    },
+    "bracelet-0": {
+      "sheet": "accessories-v2",
+      "x": 689,
+      "y": 74,
+      "width": 130,
+      "height": 97
+    },
+    "charm-1": {
+      "sheet": "accessories-v2",
+      "x": 35,
+      "y": 196,
+      "width": 117,
+      "height": 148
+    },
+    "ring-1": {
+      "sheet": "accessories-v2",
+      "x": 200,
+      "y": 215,
+      "width": 115,
+      "height": 110
+    },
+    "earrings-1": {
+      "sheet": "accessories-v2",
+      "x": 365,
+      "y": 205,
+      "width": 113,
+      "height": 130
+    },
+    "necklace-1": {
+      "sheet": "accessories-v2",
+      "x": 522,
+      "y": 195,
+      "width": 127,
+      "height": 152
+    },
+    "bracelet-1": {
+      "sheet": "accessories-v2",
+      "x": 685,
+      "y": 227,
+      "width": 139,
+      "height": 100
+    },
+    "charm-2": {
+      "sheet": "accessories-v2",
+      "x": 33,
+      "y": 355,
+      "width": 118,
+      "height": 145
+    },
+    "ring-2": {
+      "sheet": "accessories-v2",
+      "x": 200,
+      "y": 371,
+      "width": 120,
+      "height": 109
+    },
+    "earrings-2": {
+      "sheet": "accessories-v2",
+      "x": 361,
+      "y": 363,
+      "width": 120,
+      "height": 131
+    },
+    "necklace-2": {
+      "sheet": "accessories-v2",
+      "x": 517,
+      "y": 355,
+      "width": 135,
+      "height": 148
+    },
+    "bracelet-2": {
+      "sheet": "accessories-v2",
+      "x": 684,
+      "y": 379,
+      "width": 139,
+      "height": 121
+    },
+    "charm-3": {
+      "sheet": "accessories-v2",
+      "x": 37,
+      "y": 506,
+      "width": 111,
+      "height": 149
+    },
+    "ring-3": {
+      "sheet": "accessories-v2",
+      "x": 200,
+      "y": 521,
+      "width": 123,
+      "height": 116
+    },
+    "earrings-3": {
+      "sheet": "accessories-v2",
+      "x": 361,
+      "y": 518,
+      "width": 119,
+      "height": 130
+    },
+    "necklace-3": {
+      "sheet": "accessories-v2",
+      "x": 516,
+      "y": 504,
+      "width": 138,
+      "height": 153
+    },
+    "bracelet-3": {
+      "sheet": "accessories-v2",
+      "x": 681,
+      "y": 533,
+      "width": 143,
+      "height": 109
+    },
+    "charm-4": {
+      "sheet": "accessories-v2",
+      "x": 26,
+      "y": 664,
+      "width": 129,
+      "height": 155
+    },
+    "ring-4": {
+      "sheet": "accessories-v2",
+      "x": 200,
+      "y": 684,
+      "width": 120,
+      "height": 114
+    },
+    "earrings-4": {
+      "sheet": "accessories-v2",
+      "x": 367,
+      "y": 675,
+      "width": 108,
+      "height": 129
+    },
+    "necklace-4": {
+      "sheet": "accessories-v2",
+      "x": 517,
+      "y": 662,
+      "width": 131,
+      "height": 155
+    },
+    "bracelet-4": {
+      "sheet": "accessories-v2",
+      "x": 682,
+      "y": 697,
+      "width": 142,
+      "height": 108
+    },
+    "charm-5": {
+      "sheet": "accessories-v2",
+      "x": 32,
+      "y": 827,
+      "width": 120,
+      "height": 152
+    },
+    "ring-5": {
+      "sheet": "accessories-v2",
+      "x": 201,
+      "y": 842,
+      "width": 124,
+      "height": 122
+    },
+    "earrings-5": {
+      "sheet": "accessories-v2",
+      "x": 365,
+      "y": 833,
+      "width": 107,
+      "height": 135
+    },
+    "necklace-5": {
+      "sheet": "accessories-v2",
+      "x": 512,
+      "y": 824,
+      "width": 166,
+      "height": 156
+    },
+    "bracelet-5": {
+      "sheet": "accessories-v2",
+      "x": 679,
+      "y": 860,
+      "width": 148,
+      "height": 108
+    },
+    "charm-6": {
+      "sheet": "accessories-v2",
+      "x": 23,
+      "y": 992,
+      "width": 131,
+      "height": 169
+    },
+    "ring-6": {
+      "sheet": "accessories-v2",
+      "x": 195,
+      "y": 1007,
+      "width": 131,
+      "height": 132
+    },
+    "earrings-6": {
+      "sheet": "accessories-v2",
+      "x": 355,
+      "y": 997,
+      "width": 153,
+      "height": 151
+    },
+    "necklace-6": {
+      "sheet": "accessories-v2",
+      "x": 509,
+      "y": 983,
+      "width": 147,
+      "height": 182
+    },
+    "bracelet-6": {
+      "sheet": "accessories-v2",
+      "x": 680,
+      "y": 1019,
+      "width": 144,
+      "height": 125
+    },
+    "relic_shard": {
+      "sheet": "supplies",
+      "x": 15,
+      "y": 12,
+      "width": 191,
+      "height": 200
+    },
+    "temper_stone": {
+      "sheet": "supplies",
+      "x": 247,
+      "y": 10,
+      "width": 181,
+      "height": 197
+    },
+    "reforge_rune": {
+      "sheet": "supplies",
+      "x": 459,
+      "y": 9,
+      "width": 194,
+      "height": 200
+    },
+    "exp_tome": {
+      "sheet": "supplies",
+      "x": 673,
+      "y": 14,
+      "width": 202,
+      "height": 201
+    },
+    "essence_pouch": {
+      "sheet": "supplies",
+      "x": 14,
+      "y": 224,
+      "width": 191,
+      "height": 201
+    },
+    "equipment_chest": {
+      "sheet": "supplies",
+      "x": 228,
+      "y": 224,
+      "width": 215,
+      "height": 203
+    },
+    "gold": {
+      "sheet": "supplies",
+      "x": 459,
+      "y": 228,
+      "width": 204,
+      "height": 196
+    },
+    "essence": {
+      "sheet": "supplies",
+      "x": 682,
+      "y": 231,
+      "width": 188,
+      "height": 191
+    }
+  }
+}

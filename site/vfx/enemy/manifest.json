@@ -1,0 +1,98 @@
+{
+  "rift": {
+    "file": "rift.webp",
+    "w": 224,
+    "h": 164,
+    "cols": 6,
+    "frames": 36,
+    "pivotX": 0.49307,
+    "pivotY": 0.39487,
+    "source": "tktk02-Claw4",
+    "sourceFrames": [
+      18,
+      72
+    ],
+    "bytes": 429650,
+    "sha256": "d582d7f2a1b4696f108ca739df5acfef3dc3715cfc99c2edfa50d2ff2c4379e7"
+  },
+  "cleave": {
+    "file": "cleave.webp",
+    "w": 224,
+    "h": 131,
+    "cols": 6,
+    "frames": 36,
+    "pivotX": 0.81643,
+    "pivotY": 0.71464,
+    "source": "tktk01-Sword17",
+    "sourceFrames": [
+      20,
+      64
+    ],
+    "bytes": 372600,
+    "sha256": "1d16a9bafc61738781933d689adcc36e0b97f146810076b9fc4fbed371117528"
+  },
+  "crush": {
+    "file": "crush.webp",
+    "w": 206,
+    "h": 224,
+    "cols": 6,
+    "frames": 36,
+    "pivotX": 0.50217,
+    "pivotY": 0.4602,
+    "source": "tktk01-Sword3",
+    "sourceFrames": [
+      28,
+      60
+    ],
+    "bytes": 456468,
+    "sha256": "5cc11b9ffe3d1da68d704a9641a23120d630b97dfeeaa5ae8698a4abc659c8e9"
+  },
+  "bolt": {
+    "file": "bolt.webp",
+    "w": 224,
+    "h": 120,
+    "cols": 6,
+    "frames": 36,
+    "pivotX": 0.48262,
+    "pivotY": 0.50313,
+    "source": "tktk01-Fire6",
+    "sourceFrames": [
+      34,
+      72
+    ],
+    "bytes": 260474,
+    "sha256": "3c9cf56c632e3dafe93bf93f0fb31dafcf539c4f458131cb880de4a0e0b1c3cf"
+  },
+  "nova": {
+    "file": "nova.webp",
+    "w": 224,
+    "h": 212,
+    "cols": 6,
+    "frames": 36,
+    "pivotX": 0.48764,
+    "pivotY": 0.45802,
+    "source": "tktk01-Sword20",
+    "sourceFrames": [
+      20,
+      72
+    ],
+    "bytes": 485092,
+    "sha256": "246eb4813535835121392d02fe30da573a8cde657aafbd442d826ebc03915a11"
+  },
+  "pillar": {
+    "file": "pillar.webp",
+    "w": 224,
+    "h": 195,
+    "cols": 6,
+    "frames": 36,
+    "pivotX": 0.49814,
+    "pivotY": 0.92981,
+    "source": "tktk02-Fire2",
+    "sourceFrames": [
+      40,
+      72
+    ],
+    "bytes": 452056,
+    "sha256": "d5a94f040418afa5d5f751c50ae29e03c4769018d9d130aaefcbdbc78d0992c8"
+  }
+}

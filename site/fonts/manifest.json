@@ -1,0 +1,28 @@
+{
+  "files": {
+    "suit-variable.woff2": {
+      "bytes": 624536,
+      "sha256": "aa894a204d5a6fbae259dac6868d350cbd373a390caee0313f92946af741df23"
+    },
+    "hahmlet-extended.woff2": {
+      "bytes": 189596,
+      "sha256": "c045be0237b1f024775a3807440d9433a996654ac3d6a11cc7a2cfe82b517338"
+    },
+    "cinzel-decorative-400.woff2": {
+      "bytes": 20988,
+      "sha256": "07671567e5680532430b7a89a946599ddb5814b7332745ccfee817ce56b037dc"
+    },
+    "hahmlet-common.woff2": {
+      "bytes": 614652,
+      "sha256": "76a2cefdd08eac8f06873aa3db91ca0eb72fd61030932bb0303b97fa95a5e6e1"
+    },
+    "cinzel-decorative-700.woff2": {
+      "bytes": 22524,
+      "sha256": "7130f4625f1ab90fbf5474b9eb1663433c06633280e3ce3ad69a689a6965b5a4"
+    }
+  },
+  "hahmletCodepoints": 3607,
+  "commonCodepoints": 3153,
+  "extendedCodepoints": 454,
+  "coverageComplete": true
+}

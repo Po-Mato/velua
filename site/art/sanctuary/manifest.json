@@ -1,0 +1,126 @@
+{
+  "priest": {
+    "width": 215,
+    "height": 256
+  },
+  "knight": {
+    "width": 223,
+    "height": 256
+  },
+  "mage": {
+    "width": 205,
+    "height": 256
+  },
+  "rogue": {
+    "width": 211,
+    "height": 256
+  },
+  "cleric": {
+    "width": 170,
+    "height": 256
+  },
+  "sorcerer": {
+    "width": 204,
+    "height": 256
+  },
+  "slime": {
+    "width": 224,
+    "height": 213
+  },
+  "mushroom": {
+    "width": 240,
+    "height": 226
+  },
+  "wolf": {
+    "width": 230,
+    "height": 240
+  },
+  "spriggan": {
+    "width": 216,
+    "height": 241
+  },
+  "treant": {
+    "width": 244,
+    "height": 231
+  },
+  "owl": {
+    "width": 236,
+    "height": 241
+  },
+  "skeleton": {
+    "width": 185,
+    "height": 246
+  },
+  "bat": {
+    "width": 244,
+    "height": 205
+  },
+  "ice-golem": {
+    "width": 244,
+    "height": 234
+  },
+  "wisp": {
+    "width": 185,
+    "height": 244
+  },
+  "lava-beetle": {
+    "width": 244,
+    "height": 234
+  },
+  "dreadlord": {
+    "width": 244,
+    "height": 235
+  },
+  "forest-canopy": {
+    "width": 278,
+    "height": 300
+  },
+  "forest-rock": {
+    "width": 280,
+    "height": 221
+  },
+  "forest-landmark": {
+    "width": 280,
+    "height": 287
+  },
+  "marsh-canopy": {
+    "width": 280,
+    "height": 293
+  },
+  "marsh-rock": {
+    "width": 280,
+    "height": 241
+  },
+  "marsh-landmark": {
+    "width": 280,
+    "height": 292
+  },
+  "citadel-canopy": {
+    "width": 249,
+    "height": 300
+  },
+  "citadel-rock": {
+    "width": 280,
+    "height": 265
+  },
+  "citadel-landmark": {
+    "width": 280,
+    "height": 290
+  },
+  "ember-canopy": {
+    "width": 250,
+    "height": 300
+  },
+  "ember-rock": {
+    "width": 280,
+    "height": 253
+  },
+  "ember-landmark": {
+    "width": 280,
+    "height": 285
+  },
+  "ember-dragon": {
+    "width": 384,
+    "height": 269
+  }
+}

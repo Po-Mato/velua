@@ -1,0 +1,458 @@
+{
+  "priest-back": {
+    "width": 224,
+    "height": 256,
+    "source": "heroes.png",
+    "bounds": [
+      28,
+      7,
+      336,
+      359
+    ],
+    "sha256": "f7df35eb3ff01ad0640f0c91c0fdc52cfdbc13134e7dddcc81b946a2a9329e72"
+  },
+  "priest-side": {
+    "width": 150,
+    "height": 256,
+    "source": "heroes.png",
+    "bounds": [
+      434,
+      7,
+      642,
+      362
+    ],
+    "sha256": "aa53f5fc40e265b946b2b346a9b78845c684a530be2c64dcbe6d6cb0448d7dae"
+  },
+  "knight-back": {
+    "width": 239,
+    "height": 256,
+    "source": "heroes.png",
+    "bounds": [
+      746,
+      9,
+      1074,
+      361
+    ],
+    "sha256": "fa8fe2fb89eef6226152225cc0caa90c99e3c4c7c5f42d09c520d12bc0a26677"
+  },
+  "knight-side": {
+    "width": 168,
+    "height": 256,
+    "source": "heroes.png",
+    "bounds": [
+      1141,
+      8,
+      1374,
+      362
+    ],
+    "sha256": "987396279d871e5735308086d624292c67a768a4629da766d96866185aae917f"
+  },
+  "mage-back": {
+    "width": 219,
+    "height": 256,
+    "source": "heroes.png",
+    "bounds": [
+      36,
+      369,
+      330,
+      712
+    ],
+    "sha256": "2c701e63e44af866fb20cff252cbf67d1069c7546c7b877dc57abdf445bd736e"
+  },
+  "mage-side": {
+    "width": 154,
+    "height": 256,
+    "source": "heroes.png",
+    "bounds": [
+      438,
+      369,
+      644,
+      712
+    ],
+    "sha256": "783c57434bf7695eb0c1ac4a141479b8c67ef374437fc08a7ca28fe5b53814f5"
+  },
+  "rogue-back": {
+    "width": 221,
+    "height": 256,
+    "source": "heroes.png",
+    "bounds": [
+      758,
+      365,
+      1059,
+      713
+    ],
+    "sha256": "2c086b63a9b10ea31db14effcb7c4c4ed13eb7ee2344c25e2b55530d2283af76"
+  },
+  "rogue-side": {
+    "width": 150,
+    "height": 256,
+    "source": "heroes.png",
+    "bounds": [
+      1176,
+      364,
+      1381,
+      714
+    ],
+    "sha256": "bc06b58b5f6ba6de5349a0a868d76b576d542006c96132e46045db91d3125243"
+  },
+  "cleric-back": {
+    "width": 210,
+    "height": 256,
+    "source": "heroes.png",
+    "bounds": [
+      38,
+      716,
+      327,
+      1069
+    ],
+    "sha256": "142cd41068b73e1b32aa5d6ad52803079ef93edf85f80615985a4dfd61783c8a"
+  },
+  "cleric-side": {
+    "width": 161,
+    "height": 256,
+    "source": "heroes.png",
+    "bounds": [
+      428,
+      715,
+      651,
+      1069
+    ],
+    "sha256": "a9735d2024a814e2d8b2f0a5c3d60aea356ee52ef27ecbe9e848e4faef82dc48"
+  },
+  "sorcerer-back": {
+    "width": 221,
+    "height": 256,
+    "source": "heroes.png",
+    "bounds": [
+      755,
+      715,
+      1061,
+      1069
+    ],
+    "sha256": "17dc56fde55ab452f9e7e0e32482def0487b3d5fd14ec0f1f4f552170a704156"
+  },
+  "sorcerer-side": {
+    "width": 166,
+    "height": 256,
+    "source": "heroes.png",
+    "bounds": [
+      1151,
+      716,
+      1381,
+      1070
+    ],
+    "sha256": "d620bd70acf8210bb2563a741ff59b87e688e4d96ddbb6ac23de1a5d86c28a6b"
+  },
+  "slime-back": {
+    "width": 254,
+    "height": 256,
+    "source": "forest.png",
+    "bounds": [
+      38,
+      42,
+      338,
+      344
+    ],
+    "sha256": "88c02757952c1698c8dc7c13fc980226228b5113ede158bdf6d66fbdd76031da"
+  },
+  "slime-side": {
+    "width": 251,
+    "height": 256,
+    "source": "forest.png",
+    "bounds": [
+      425,
+      62,
+      701,
+      343
+    ],
+    "sha256": "a4fdc316e0d556af09b5635acd83421e358fbe5a870910702d0ae9659f11f8d2"
+  },
+  "mushroom-back": {
+    "width": 225,
+    "height": 256,
+    "source": "forest.png",
+    "bounds": [
+      761,
+      35,
+      1032,
+      343
+    ],
+    "sha256": "d72d80c72ee5a93e2e71b38b241408ae5de9e56544683483df70801d37fe3a9b"
+  },
+  "mushroom-side": {
+    "width": 215,
+    "height": 256,
+    "source": "forest.png",
+    "bounds": [
+      1141,
+      35,
+      1401,
+      344
+    ],
+    "sha256": "cd7f47a33557caf904a4d1a6b760387bcaaa2e9e52c9ed900f06e709ba35f253"
+  },
+  "wolf-back": {
+    "width": 223,
+    "height": 256,
+    "source": "forest.png",
+    "bounds": [
+      56,
+      379,
+      318,
+      680
+    ],
+    "sha256": "c8caad004d2b3402d5efdbbbbe1f730ebce06cae3ee29db2efca0374769b05a8"
+  },
+  "wolf-side": {
+    "width": 260,
+    "height": 227,
+    "source": "forest.png",
+    "bounds": [
+      356,
+      370,
+      714,
+      682
+    ],
+    "sha256": "648cbcac9b124de7e329cd891c9ace88134626debf4739f8020c71df0c2e5a69"
+  },
+  "spriggan-back": {
+    "width": 239,
+    "height": 256,
+    "source": "forest.png",
+    "bounds": [
+      754,
+      354,
+      1057,
+      679
+    ],
+    "sha256": "37a852269a4c058d66d267ea3ce5557e865089e578177e16edb1573942ad6afa"
+  },
+  "spriggan-side": {
+    "width": 180,
+    "height": 256,
+    "source": "forest.png",
+    "bounds": [
+      1168,
+      359,
+      1394,
+      681
+    ],
+    "sha256": "b4753f73ef09b8073cfe9b31cc39ddbb85935663f4dc51ab39146b392670d68a"
+  },
+  "treant-back": {
+    "width": 260,
+    "height": 256,
+    "source": "forest.png",
+    "bounds": [
+      12,
+      684,
+      377,
+      1043
+    ],
+    "sha256": "4026ff2123a0020080c9d7caca1ba256e281b5c981b6d6f29cb3da96e0504453"
+  },
+  "treant-side": {
+    "width": 182,
+    "height": 256,
+    "source": "forest.png",
+    "bounds": [
+      426,
+      683,
+      683,
+      1045
+    ],
+    "sha256": "852d326d3fee71ffc408a0020f52b5cd688dec2cd328c84272ec82324fa1205d"
+  },
+  "owl-back": {
+    "width": 222,
+    "height": 256,
+    "source": "forest.png",
+    "bounds": [
+      739,
+      687,
+      1048,
+      1043
+    ],
+    "sha256": "56072e3f51059c7cd81f57ac9145b82b99548bbfa0f4348d8dfe3df2cd01b561"
+  },
+  "owl-side": {
+    "width": 219,
+    "height": 256,
+    "source": "forest.png",
+    "bounds": [
+      1095,
+      677,
+      1395,
+      1027
+    ],
+    "sha256": "d9c30d3d2d63c4cc1d37a9ca3f1d4607e2988112a297efd724d8fe5570a862b2"
+  },
+  "skeleton-back": {
+    "width": 195,
+    "height": 256,
+    "source": "dungeon.png",
+    "bounds": [
+      56,
+      22,
+      304,
+      348
+    ],
+    "sha256": "073292cf2d67b959183e028a0a6be78f382ce6b435afb2227589c9bd7b30dad7"
+  },
+  "skeleton-side": {
+    "width": 108,
+    "height": 256,
+    "source": "dungeon.png",
+    "bounds": [
+      457,
+      22,
+      596,
+      352
+    ],
+    "sha256": "b6b780ba82f3a8124c1b33d03b06693f5e827cd66b6c06ad7bca531b4d0c574c"
+  },
+  "bat-back": {
+    "width": 260,
+    "height": 181,
+    "source": "dungeon.png",
+    "bounds": [
+      694,
+      52,
+      1113,
+      343
+    ],
+    "sha256": "72744e737d9c4fa4359e7c079b98ec903ff2d85f181940f7e826b4ac121677dd"
+  },
+  "bat-side": {
+    "width": 239,
+    "height": 256,
+    "source": "dungeon.png",
+    "bounds": [
+      1118,
+      23,
+      1421,
+      347
+    ],
+    "sha256": "04eccecf9d859d4b81e208fe903fd5d978c65ecbba9c75228d9a0aabbb653f91"
+  },
+  "ice-golem-back": {
+    "width": 254,
+    "height": 256,
+    "source": "dungeon.png",
+    "bounds": [
+      19,
+      362,
+      347,
+      693
+    ],
+    "sha256": "4e222a978a450a6be1161d6cd717c57ab28a947fc31b76cd9555f596801913bd"
+  },
+  "ice-golem-side": {
+    "width": 185,
+    "height": 256,
+    "source": "dungeon.png",
+    "bounds": [
+      438,
+      362,
+      676,
+      691
+    ],
+    "sha256": "8c23e2a1087d3c6256aa53a611d46f86abde11579c771922df688a3bbba4239a"
+  },
+  "wisp-back": {
+    "width": 231,
+    "height": 256,
+    "source": "dungeon.png",
+    "bounds": [
+      765,
+      371,
+      1048,
+      685
+    ],
+    "sha256": "63c8010c60c681dc5f759fc11096c814071a491ca5928e86012c9a74d1cca6bb"
+  },
+  "wisp-side": {
+    "width": 220,
+    "height": 256,
+    "source": "dungeon.png",
+    "bounds": [
+      1148,
+      371,
+      1413,
+      679
+    ],
+    "sha256": "728f4d17723ee99b959f7d3732308c9934847864c180fdf2b77bcafdbe62f158"
+  },
+  "lava-beetle-back": {
+    "width": 260,
+    "height": 249,
+    "source": "dungeon.png",
+    "bounds": [
+      10,
+      702,
+      356,
+      1033
+    ],
+    "sha256": "7123bbed4939b61a41e2b12e0829a33529671d885bceccd93ad4bca9e97cd288"
+  },
+  "lava-beetle-side": {
+    "width": 260,
+    "height": 237,
+    "source": "dungeon.png",
+    "bounds": [
+      372,
+      703,
+      729,
+      1028
+    ],
+    "sha256": "4ae3090d50acfb338a351e480e9e065eed9627bf00136cd07966cda1be38602b"
+  },
+  "dreadlord-back": {
+    "width": 245,
+    "height": 256,
+    "source": "dungeon.png",
+    "bounds": [
+      728,
+      670,
+      1092,
+      1050
+    ],
+    "sha256": "83eabcffa6655f930f79e40dc4ee7622559998ba4f7f51f4546d63f3298cd761"
+  },
+  "dreadlord-side": {
+    "width": 222,
+    "height": 256,
+    "source": "dungeon.png",
+    "bounds": [
+      1114,
+      673,
+      1440,
+      1049
+    ],
+    "sha256": "bb23ee922097c07e0a25358ce52bb654afc974951779ed9b9c183c2d3730de04"
+  },
+  "ember-dragon-back": {
+    "width": 335,
+    "height": 300,
+    "source": "dragon.png",
+    "bounds": [
+      13,
+      59,
+      890,
+      845
+    ],
+    "sha256": "5bc6e0495a28b05d66534454abd366096edbe87863722492d796798c38886d79"
+  },
+  "ember-dragon-side": {
+    "width": 359,
+    "height": 300,
+    "source": "dragon.png",
+    "bounds": [
+      893,
+      84,
+      1765,
+      812
+    ],
+    "sha256": "1573db8bd71b2ce32c9979ce2a83f2efe1dee6d5f01102164a39b7905c8d5aab"
+  }
+}

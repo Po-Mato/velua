@@ -1,0 +1,1562 @@
+{
+  "weapon-priest-0": {
+    "width": 169,
+    "height": 280,
+    "source": "weaponsHoly.png",
+    "bounds": [
+      33,
+      8,
+      255,
+      376
+    ],
+    "sha256": "a1cab9788a1d2aa270172eea3a833cb0fea2f69720127d2a875c8166f4c73dae"
+  },
+  "weapon-priest-1": {
+    "width": 156,
+    "height": 280,
+    "source": "weaponsHoly.png",
+    "bounds": [
+      309,
+      8,
+      514,
+      376
+    ],
+    "sha256": "a7752e42177d411d0704217cb34710a77b9853083539c556fe4e0d62752a5f6a"
+  },
+  "weapon-priest-2": {
+    "width": 169,
+    "height": 280,
+    "source": "weaponsHoly.png",
+    "bounds": [
+      565,
+      8,
+      787,
+      376
+    ],
+    "sha256": "0ea745023da308fd40e8fd23390b8c9ddbc27bf817bd56abd5165fe70cf6a9e2"
+  },
+  "weapon-priest-3": {
+    "width": 208,
+    "height": 280,
+    "source": "weaponsHoly.png",
+    "bounds": [
+      815,
+      9,
+      1087,
+      376
+    ],
+    "sha256": "c193ee4e86129f9ac157318dd146d8e01a168772e12a0e94dda50eed40f8dc71"
+  },
+  "weapon-priest-4": {
+    "width": 159,
+    "height": 280,
+    "source": "weaponsHoly.png",
+    "bounds": [
+      1115,
+      11,
+      1324,
+      378
+    ],
+    "sha256": "a67e56cf7d5ff60db3c3ea766c7c7d2d82ce6fa02db5181e4e02b2f910c0a96f"
+  },
+  "weapon-priest-5": {
+    "width": 170,
+    "height": 280,
+    "source": "weaponsHoly.png",
+    "bounds": [
+      1365,
+      8,
+      1589,
+      377
+    ],
+    "sha256": "35dc2dea09379dfcf2f7905822a033f22b38387cd45721857bbca4abc263f8eb"
+  },
+  "weapon-priest-6": {
+    "width": 230,
+    "height": 280,
+    "source": "weaponsHoly.png",
+    "bounds": [
+      1608,
+      8,
+      1910,
+      376
+    ],
+    "sha256": "02aa1757b5efe977268887dd2b992a9b85f80a651f85560fa50425891e46737f"
+  },
+  "weapon-mage-0": {
+    "width": 122,
+    "height": 280,
+    "source": "weaponsHoly.png",
+    "bounds": [
+      49,
+      385,
+      234,
+      811
+    ],
+    "sha256": "2757cb069534e0996a7dd7fba44d5840e4d2f32bed235d930af136f13096f068"
+  },
+  "weapon-mage-1": {
+    "width": 139,
+    "height": 280,
+    "source": "weaponsHoly.png",
+    "bounds": [
+      309,
+      385,
+      520,
+      811
+    ],
+    "sha256": "f93bb43e96a620e60acb92e7eda7bf176dcc27dc1d13884cafad9dba78bd24f4"
+  },
+  "weapon-mage-2": {
+    "width": 131,
+    "height": 280,
+    "source": "weaponsHoly.png",
+    "bounds": [
+      583,
+      385,
+      782,
+      811
+    ],
+    "sha256": "3eae6a0a8a54adb50231c818c12c86bb7a6a6cbe63c524f4b56c48b8d9876068"
+  },
+  "weapon-mage-3": {
+    "width": 138,
+    "height": 280,
+    "source": "weaponsHoly.png",
+    "bounds": [
+      840,
+      387,
+      1049,
+      811
+    ],
+    "sha256": "34b038379de7bfd5077b58366fc22f4f7626e90b3288fcd02b3a2dd3c6e8138a"
+  },
+  "weapon-mage-4": {
+    "width": 145,
+    "height": 280,
+    "source": "weaponsHoly.png",
+    "bounds": [
+      1101,
+      398,
+      1314,
+      809
+    ],
+    "sha256": "5489ed4c29db3440c0ef825ec05f5b1823475060a48833206ddf097f0c1b31b0"
+  },
+  "weapon-mage-5": {
+    "width": 101,
+    "height": 280,
+    "source": "weaponsHoly.png",
+    "bounds": [
+      1373,
+      385,
+      1527,
+      811
+    ],
+    "sha256": "4ce57509d0695dc5da975d9d9446d07fed02d125e99cad7048c17c7b4a26e0d2"
+  },
+  "weapon-mage-6": {
+    "width": 187,
+    "height": 280,
+    "source": "weaponsHoly.png",
+    "bounds": [
+      1611,
+      376,
+      1902,
+      812
+    ],
+    "sha256": "6f69a0b9ee749a240817c1e927817fa7882a4bfe4fce42d218175d3d1613c9e0"
+  },
+  "weapon-knight-0": {
+    "width": 123,
+    "height": 280,
+    "source": "weaponsBlade.png",
+    "bounds": [
+      27,
+      19,
+      240,
+      502
+    ],
+    "sha256": "f092784a6c320852207f31248e12c25da29a4f1d460ae3aba283465ef9aa8537"
+  },
+  "weapon-knight-1": {
+    "width": 102,
+    "height": 280,
+    "source": "weaponsBlade.png",
+    "bounds": [
+      309,
+      17,
+      488,
+      509
+    ],
+    "sha256": "069a9bfafebf7f52cbe9b0f8471d80e508ff26fd61ee40b025b0b8d19d00e471"
+  },
+  "weapon-knight-2": {
+    "width": 119,
+    "height": 280,
+    "source": "weaponsBlade.png",
+    "bounds": [
+      549,
+      24,
+      755,
+      509
+    ],
+    "sha256": "0ea4d883955e2a3d68b653698ea54ea523cfac75145070bf3999e7582cd0ab8b"
+  },
+  "weapon-knight-3": {
+    "width": 120,
+    "height": 280,
+    "source": "weaponsBlade.png",
+    "bounds": [
+      784,
+      17,
+      994,
+      509
+    ],
+    "sha256": "628d6e0b66b30189b0c69b7458de6bb783a4521f72a4b28ac8c0cb4fe4b7227d"
+  },
+  "weapon-knight-4": {
+    "width": 103,
+    "height": 280,
+    "source": "weaponsBlade.png",
+    "bounds": [
+      1054,
+      48,
+      1220,
+      500
+    ],
+    "sha256": "c7ea7ddad73b5138c7d1a46eedc07b40a8d044a6394634670423c91c685f256a"
+  },
+  "weapon-knight-5": {
+    "width": 118,
+    "height": 280,
+    "source": "weaponsBlade.png",
+    "bounds": [
+      1282,
+      26,
+      1486,
+      510
+    ],
+    "sha256": "68ebefed3c342ad43ddf611127bfdd97b7b436ef0cf9b640af2f6e2340606d54"
+  },
+  "weapon-knight-6": {
+    "width": 131,
+    "height": 280,
+    "source": "weaponsBlade.png",
+    "bounds": [
+      1532,
+      19,
+      1762,
+      509
+    ],
+    "sha256": "1f63441d7c5ada14436d4ff22ff314bcf54e676ddc20006c52aa200c8e693bb2"
+  },
+  "weapon-rogue-0": {
+    "width": 107,
+    "height": 280,
+    "source": "weaponsBlade.png",
+    "bounds": [
+      71,
+      529,
+      192,
+      847
+    ],
+    "sha256": "97bc330ac564b37e632f067858f910743516ab2fd8f1636fa695f5f0687507d4"
+  },
+  "weapon-rogue-1": {
+    "width": 127,
+    "height": 280,
+    "source": "weaponsBlade.png",
+    "bounds": [
+      328,
+      533,
+      473,
+      853
+    ],
+    "sha256": "4ae2eb627f08dcf8c3cb524010776cb4d4ec3efc3ecf7708a8c8f3832cd5a6cc"
+  },
+  "weapon-rogue-2": {
+    "width": 101,
+    "height": 280,
+    "source": "weaponsBlade.png",
+    "bounds": [
+      603,
+      522,
+      723,
+      855
+    ],
+    "sha256": "5673dba440c5d70800c7ed6471574591e26aba703010626688bff1522041dbd2"
+  },
+  "weapon-rogue-3": {
+    "width": 102,
+    "height": 280,
+    "source": "weaponsBlade.png",
+    "bounds": [
+      837,
+      528,
+      955,
+      852
+    ],
+    "sha256": "2951730f74eb1c3ada756447056c965ead965cce585c5a18455a38f0128b087d"
+  },
+  "weapon-rogue-4": {
+    "width": 102,
+    "height": 280,
+    "source": "weaponsBlade.png",
+    "bounds": [
+      1081,
+      532,
+      1194,
+      842
+    ],
+    "sha256": "125d8febd711306fd3b0cd178146e7f0f2bfc2b32dffc6860e7b67742b5174d6"
+  },
+  "weapon-rogue-5": {
+    "width": 117,
+    "height": 280,
+    "source": "weaponsBlade.png",
+    "bounds": [
+      1324,
+      523,
+      1462,
+      853
+    ],
+    "sha256": "53c67b695221ea3dab6a8fb3374953457d7114fa5f2436b0bb372b4a7b024c31"
+  },
+  "weapon-rogue-6": {
+    "width": 143,
+    "height": 280,
+    "source": "weaponsBlade.png",
+    "bounds": [
+      1564,
+      528,
+      1730,
+      852
+    ],
+    "sha256": "5575bf62a18633abda0902f924f54211c6189febe278c5cd8e34950a31a47bc5"
+  },
+  "armor-0-front": {
+    "width": 260,
+    "height": 189,
+    "source": "armor.png",
+    "bounds": [
+      45,
+      12,
+      338,
+      225
+    ],
+    "sha256": "0c0f7fc668814d9f7b6b7ff0374150e5067bc4c435e4c2e47dd1b7fad975fc8f"
+  },
+  "armor-0-side": {
+    "width": 192,
+    "height": 207,
+    "source": "armor.png",
+    "bounds": [
+      382,
+      12,
+      574,
+      219
+    ],
+    "sha256": "18f98b0780fce1c849260f2cbc0cc9fa83f4f39f04f2b454f73493d4f5ebc648"
+  },
+  "armor-0-back": {
+    "width": 260,
+    "height": 199,
+    "source": "armor.png",
+    "bounds": [
+      629,
+      12,
+      908,
+      226
+    ],
+    "sha256": "48c1be6b22735fe8eaa4e9544cfeb6117f49122c3ba4cf29a801d87d6dd223fa"
+  },
+  "armor-1-front": {
+    "width": 260,
+    "height": 177,
+    "source": "armor.png",
+    "bounds": [
+      34,
+      228,
+      348,
+      442
+    ],
+    "sha256": "8382a0f0772a2746929c9bb065842784ebc64c2c5204216f58bb0f0a7b63ea4a"
+  },
+  "armor-1-side": {
+    "width": 193,
+    "height": 223,
+    "source": "armor.png",
+    "bounds": [
+      376,
+      223,
+      569,
+      446
+    ],
+    "sha256": "07ce545b3f5539c49423c1b3ca016e296c9bb2e6fd3d049b82fe63fd60530c07"
+  },
+  "armor-1-back": {
+    "width": 260,
+    "height": 191,
+    "source": "armor.png",
+    "bounds": [
+      616,
+      226,
+      922,
+      451
+    ],
+    "sha256": "d36e13e86a82086c6b83f061dcba04811de68e8211986ba4fba0126d488e6c1a"
+  },
+  "armor-2-front": {
+    "width": 260,
+    "height": 192,
+    "source": "armor.png",
+    "bounds": [
+      30,
+      437,
+      351,
+      674
+    ],
+    "sha256": "d72e1ca27667930c99ad82c7ef4cfd2cc2f1f4e54f3a92282fafa289e3af61d6"
+  },
+  "armor-2-side": {
+    "width": 202,
+    "height": 233,
+    "source": "armor.png",
+    "bounds": [
+      376,
+      447,
+      578,
+      680
+    ],
+    "sha256": "35856f3fa9aab92639a091ed6a0d01ae16d7ec9ac973a3167263f8db150007a4"
+  },
+  "armor-2-back": {
+    "width": 260,
+    "height": 196,
+    "source": "armor.png",
+    "bounds": [
+      620,
+      445,
+      922,
+      673
+    ],
+    "sha256": "4f581d983e4dc83420390210088d5a77f04a3c6190f8b88ebc9a284ea066e35a"
+  },
+  "armor-3-front": {
+    "width": 260,
+    "height": 182,
+    "source": "armor.png",
+    "bounds": [
+      26,
+      673,
+      358,
+      906
+    ],
+    "sha256": "55275c0a07d57ecd2a98feb23e3626c617c34139b92779a983ad7153d9d732e5"
+  },
+  "armor-3-side": {
+    "width": 209,
+    "height": 225,
+    "source": "armor.png",
+    "bounds": [
+      377,
+      673,
+      586,
+      898
+    ],
+    "sha256": "7a12fca85029d6e778347d7fe8c6857425b87af1f93b86429c5d3c24428f9879"
+  },
+  "armor-3-back": {
+    "width": 260,
+    "height": 186,
+    "source": "armor.png",
+    "bounds": [
+      608,
+      674,
+      928,
+      903
+    ],
+    "sha256": "2bae625ab119ebe0df30191be4dd6c3809dade0d70422329e81f33668f2d12ee"
+  },
+  "armor-4-front": {
+    "width": 260,
+    "height": 186,
+    "source": "armor.png",
+    "bounds": [
+      23,
+      906,
+      359,
+      1146
+    ],
+    "sha256": "7d7722274458db02dcc12bbc988fd3e8684788df2187bb9dd867188f445f8370"
+  },
+  "armor-4-side": {
+    "width": 200,
+    "height": 241,
+    "source": "armor.png",
+    "bounds": [
+      381,
+      904,
+      581,
+      1145
+    ],
+    "sha256": "fc7e0b3f33fcd2f58fd7973416cd0234acb94bffa576cc5d520eb96370aad4c1"
+  },
+  "armor-4-back": {
+    "width": 260,
+    "height": 190,
+    "source": "armor.png",
+    "bounds": [
+      607,
+      906,
+      939,
+      1149
+    ],
+    "sha256": "b18986b890e8983a1a1e938701e29d7911aed8d6e05006cb031f87da1c3518d5"
+  },
+  "armor-5-front": {
+    "width": 260,
+    "height": 183,
+    "source": "armor.png",
+    "bounds": [
+      28,
+      1148,
+      357,
+      1380
+    ],
+    "sha256": "7f4388284a27eb2ac010470ef0218e50c4a211f81f32ea8882fa9a988f0902f1"
+  },
+  "armor-5-side": {
+    "width": 212,
+    "height": 236,
+    "source": "armor.png",
+    "bounds": [
+      383,
+      1145,
+      595,
+      1381
+    ],
+    "sha256": "88df81e754de4ae2aeab8f75fc80651ee7a45dae7eb50a5508967a3b98bf09c4"
+  },
+  "armor-5-back": {
+    "width": 260,
+    "height": 192,
+    "source": "armor.png",
+    "bounds": [
+      620,
+      1150,
+      925,
+      1375
+    ],
+    "sha256": "1f900eddfb73d6b14e112c313c1deedf2184e53bd3b2e3bf4dd9547bcdcaaf0a"
+  },
+  "armor-6-front": {
+    "width": 260,
+    "height": 212,
+    "source": "armor.png",
+    "bounds": [
+      27,
+      1378,
+      355,
+      1645
+    ],
+    "sha256": "376136a7a1e26853b1f56e860c410ad2dc3e37c4503bfbc9025833349129d147"
+  },
+  "armor-6-side": {
+    "width": 226,
+    "height": 271,
+    "source": "armor.png",
+    "bounds": [
+      371,
+      1375,
+      597,
+      1646
+    ],
+    "sha256": "313d155123e6304737bc4819711eb4c88a7abc31b94cba5142100089681f5207"
+  },
+  "armor-6-back": {
+    "width": 260,
+    "height": 225,
+    "source": "armor.png",
+    "bounds": [
+      622,
+      1379,
+      930,
+      1645
+    ],
+    "sha256": "f8d2c28bebcc64b8d89cbced7429419bd5e95aac3ff3b007d91ace59e01b79bd"
+  },
+  "hat-0-front": {
+    "width": 260,
+    "height": 218,
+    "source": "hats.png",
+    "bounds": [
+      41,
+      8,
+      314,
+      237
+    ],
+    "sha256": "ea0cb3ae93bc2ad7e3265d3ee60c820180ebc93a8c9acde81ca748ddd77504cf"
+  },
+  "hat-0-side": {
+    "width": 193,
+    "height": 227,
+    "source": "hats.png",
+    "bounds": [
+      380,
+      10,
+      573,
+      237
+    ],
+    "sha256": "6cdc548c521c081902a972f527d3e7cd848582fb1417850abeeadfa127911fdb"
+  },
+  "hat-0-back": {
+    "width": 254,
+    "height": 228,
+    "source": "hats.png",
+    "bounds": [
+      659,
+      8,
+      913,
+      236
+    ],
+    "sha256": "c776a716642e05d7281980dde6b7bfae5f8b041812fa2082c204585b7e8cc4be"
+  },
+  "hat-1-front": {
+    "width": 259,
+    "height": 202,
+    "source": "hats.png",
+    "bounds": [
+      48,
+      233,
+      307,
+      435
+    ],
+    "sha256": "b614a0ca3549ee267de58f4f03664b9d94ab01bfb0903f8ec34dfc9c9b579554"
+  },
+  "hat-1-side": {
+    "width": 209,
+    "height": 186,
+    "source": "hats.png",
+    "bounds": [
+      392,
+      243,
+      601,
+      429
+    ],
+    "sha256": "06bd18804832fbaf48db3dc7a3d6066d0b7fa2c63bbed52fa0407df480c671d9"
+  },
+  "hat-1-back": {
+    "width": 231,
+    "height": 215,
+    "source": "hats.png",
+    "bounds": [
+      670,
+      244,
+      901,
+      459
+    ],
+    "sha256": "2f12cc1aac49e8ddbedf66e1b8f3ab47fb6487392c98f55fe7eafe464ea41527"
+  },
+  "hat-2-front": {
+    "width": 260,
+    "height": 202,
+    "source": "hats.png",
+    "bounds": [
+      15,
+      439,
+      307,
+      666
+    ],
+    "sha256": "3331fc72f765d433d5a8cd7032623d4610bf7f588625ea89aeea32821c8d0c58"
+  },
+  "hat-2-side": {
+    "width": 260,
+    "height": 198,
+    "source": "hats.png",
+    "bounds": [
+      335,
+      446,
+      635,
+      674
+    ],
+    "sha256": "20dcc4d44923c52338374aee4e34ddd51fc0d4c60842e7cdd8b80de1d5f9da65"
+  },
+  "hat-2-back": {
+    "width": 260,
+    "height": 204,
+    "source": "hats.png",
+    "bounds": [
+      664,
+      454,
+      936,
+      667
+    ],
+    "sha256": "8516175fff2445b16855997238212a84b30368b6ab4ac5401176558f87bf96a0"
+  },
+  "hat-3-front": {
+    "width": 260,
+    "height": 176,
+    "source": "hats.png",
+    "bounds": [
+      20,
+      660,
+      328,
+      868
+    ],
+    "sha256": "c47fc22d93331db5c2a5f994e12202facbb4b5789e6164cf24be346b54197439"
+  },
+  "hat-3-side": {
+    "width": 260,
+    "height": 176,
+    "source": "hats.png",
+    "bounds": [
+      340,
+      662,
+      637,
+      863
+    ],
+    "sha256": "c50a0d01989c92ebb5e2709ca897dcc548b75a43d95985f63c7942421dd53e4f"
+  },
+  "hat-3-back": {
+    "width": 260,
+    "height": 188,
+    "source": "hats.png",
+    "bounds": [
+      643,
+      660,
+      931,
+      868
+    ],
+    "sha256": "f89f6f993d512ca2d475ddd8a2080193af81b4722810411a0550a20bdb84c415"
+  },
+  "hat-4-front": {
+    "width": 260,
+    "height": 211,
+    "source": "hats.png",
+    "bounds": [
+      14,
+      855,
+      316,
+      1100
+    ],
+    "sha256": "5d21cb926293d2a72880edeb95d9080d2d0dcc97ceb6dbe38208192b6e460797"
+  },
+  "hat-4-side": {
+    "width": 260,
+    "height": 214,
+    "source": "hats.png",
+    "bounds": [
+      348,
+      869,
+      629,
+      1100
+    ],
+    "sha256": "285e44a496ebdff2e95dfaecf4c47f927e8b7bbba0f8e3ae6f528b602a7b63d8"
+  },
+  "hat-4-back": {
+    "width": 260,
+    "height": 219,
+    "source": "hats.png",
+    "bounds": [
+      641,
+      871,
+      929,
+      1114
+    ],
+    "sha256": "a924ce408c7ea26a2567d5d8cdc128f463215a6b3e51d85228f25de2546e8806"
+  },
+  "hat-5-front": {
+    "width": 260,
+    "height": 243,
+    "source": "hats.png",
+    "bounds": [
+      29,
+      1107,
+      317,
+      1376
+    ],
+    "sha256": "828dbec9bbfe2ea91ff4ca703b31ebcf14fefb0f958243ff875e34a9fcbc5d65"
+  },
+  "hat-5-side": {
+    "width": 199,
+    "height": 275,
+    "source": "hats.png",
+    "bounds": [
+      385,
+      1101,
+      584,
+      1376
+    ],
+    "sha256": "88d141bea24e0c178e332a3e1a585d48bdeb56a36b3fa0984aa906417559e614"
+  },
+  "hat-5-back": {
+    "width": 260,
+    "height": 267,
+    "source": "hats.png",
+    "bounds": [
+      655,
+      1101,
+      916,
+      1369
+    ],
+    "sha256": "eb835659433c4076a3a03c03806e8f4ba6eb32b3e458b7ca2b39d93642e238e1"
+  },
+  "hat-6-front": {
+    "width": 260,
+    "height": 206,
+    "source": "hats.png",
+    "bounds": [
+      7,
+      1363,
+      337,
+      1624
+    ],
+    "sha256": "4b57f65a914aecda785a7f09137eca4ac6c608e9422449724fda23165eaa5e84"
+  },
+  "hat-6-side": {
+    "width": 243,
+    "height": 280,
+    "source": "hats.png",
+    "bounds": [
+      350,
+      1359,
+      595,
+      1641
+    ],
+    "sha256": "b42406844ae4a0e567b60926286f1055ecb9b67fe3f1af5410ff314542085bd5"
+  },
+  "hat-6-back": {
+    "width": 260,
+    "height": 231,
+    "source": "hats.png",
+    "bounds": [
+      625,
+      1364,
+      943,
+      1646
+    ],
+    "sha256": "55dc28c82586a95a15d0f1925cabf221ed55feca86c002dacc7a53e60a69fcf2"
+  },
+  "base-priest-front": {
+    "width": 130,
+    "height": 253,
+    "source": "bases.png",
+    "bounds": [
+      167,
+      6,
+      297,
+      259
+    ],
+    "sha256": "608b117e6eba7c47f237cdb39d8635686ca02746f719994be27b60b548949f49"
+  },
+  "base-priest-side": {
+    "width": 139,
+    "height": 253,
+    "source": "bases.png",
+    "bounds": [
+      440,
+      7,
+      579,
+      260
+    ],
+    "sha256": "62a800684e879530738fde12d0cdf1a90daf848f755cf647b29c6dcd2ab05ee4"
+  },
+  "base-priest-back": {
+    "width": 132,
+    "height": 253,
+    "source": "bases.png",
+    "bounds": [
+      734,
+      6,
+      866,
+      259
+    ],
+    "sha256": "7dedb03ee54a0c73b809671e378703db59d413bfe03055d502db35749f0d7fcd"
+  },
+  "base-knight-front": {
+    "width": 129,
+    "height": 254,
+    "source": "bases.png",
+    "bounds": [
+      168,
+      261,
+      297,
+      515
+    ],
+    "sha256": "79f9d5794cef3daaa78799a43474b1ebec082778d7e1e677218944c20fc85654"
+  },
+  "base-knight-side": {
+    "width": 143,
+    "height": 254,
+    "source": "bases.png",
+    "bounds": [
+      442,
+      262,
+      585,
+      516
+    ],
+    "sha256": "7b9e45d4d813f808dd5229b9855bcd73bf33697a736cc4ea27bfa12b4c8d0e5f"
+  },
+  "base-knight-back": {
+    "width": 132,
+    "height": 256,
+    "source": "bases.png",
+    "bounds": [
+      732,
+      259,
+      864,
+      515
+    ],
+    "sha256": "fcee96a35ba90391253d339e4f8cc7e87c1b1f1b39a306af5aaf985fa7bb611c"
+  },
+  "base-mage-front": {
+    "width": 220,
+    "height": 252,
+    "source": "bases.png",
+    "bounds": [
+      118,
+      517,
+      338,
+      769
+    ],
+    "sha256": "a2548e774fd15dbe57a8b9f25dbdc0ffeb47c18bf998e10992d001f0b93651f7"
+  },
+  "base-mage-side": {
+    "width": 171,
+    "height": 254,
+    "source": "bases.png",
+    "bounds": [
+      417,
+      515,
+      588,
+      769
+    ],
+    "sha256": "f082940c4a7711e7ec53b3e8b6108dfa60bd97a65095ba9927258498572d5feb"
+  },
+  "base-mage-back": {
+    "width": 211,
+    "height": 252,
+    "source": "bases.png",
+    "bounds": [
+      692,
+      516,
+      903,
+      768
+    ],
+    "sha256": "e026cc5a9d29c9e06c0f14adb5e26da03064322314dc56dba77f5502f75fc886"
+  },
+  "base-rogue-front": {
+    "width": 184,
+    "height": 263,
+    "source": "bases.png",
+    "bounds": [
+      148,
+      768,
+      332,
+      1031
+    ],
+    "sha256": "a5910319fd81b445950eb986c7cba15fd25dca05bd7051ebac9c926efb5c6a5c"
+  },
+  "base-rogue-side": {
+    "width": 197,
+    "height": 267,
+    "source": "bases.png",
+    "bounds": [
+      399,
+      767,
+      596,
+      1034
+    ],
+    "sha256": "f61d7feb6d46b21727b725f611977a4bb0bcb459f5486a726a404186e3f16179"
+  },
+  "base-rogue-back": {
+    "width": 157,
+    "height": 264,
+    "source": "bases.png",
+    "bounds": [
+      724,
+      767,
+      881,
+      1031
+    ],
+    "sha256": "54550b5cb66bb205e521be29943c910f5fdbaaeb66be22563a1d068ed118319a"
+  },
+  "base-cleric-front": {
+    "width": 234,
+    "height": 245,
+    "source": "bases.png",
+    "bounds": [
+      104,
+      1033,
+      338,
+      1278
+    ],
+    "sha256": "9c2290e8d7329d1105580a961e5779c07376c8f47a0462eec701ab0a146ceb47"
+  },
+  "base-cleric-side": {
+    "width": 186,
+    "height": 247,
+    "source": "bases.png",
+    "bounds": [
+      406,
+      1031,
+      592,
+      1278
+    ],
+    "sha256": "2546009b51884c0316f803c20a6a0dada3bf2ce65280cb42116638005532d052"
+  },
+  "base-cleric-back": {
+    "width": 231,
+    "height": 245,
+    "source": "bases.png",
+    "bounds": [
+      693,
+      1033,
+      924,
+      1278
+    ],
+    "sha256": "7c5070478f1ad0d49c4828edc8962679a1c4659a32b86c4eda0f07983a98c924"
+  },
+  "base-sorcerer-front": {
+    "width": 143,
+    "height": 255,
+    "source": "bases.png",
+    "bounds": [
+      158,
+      1276,
+      301,
+      1531
+    ],
+    "sha256": "b7977231c30d314951d6872fa53d74a0709cbaeaee1caddd44eed3e8ae01e48d"
+  },
+  "base-sorcerer-side": {
+    "width": 143,
+    "height": 254,
+    "source": "bases.png",
+    "bounds": [
+      438,
+      1277,
+      581,
+      1531
+    ],
+    "sha256": "b4150d021db3815772529cd20f341abe09f67c8c882ec6b3e6131f8a9d2c99d1"
+  },
+  "base-sorcerer-back": {
+    "width": 147,
+    "height": 255,
+    "source": "bases.png",
+    "bounds": [
+      726,
+      1276,
+      873,
+      1531
+    ],
+    "sha256": "e2a6465ecc0e51850e1f9ce70dda41c6449065ff3163f282d6fdcb0bfb795122"
+  },
+  "pants-0-front": {
+    "width": 260,
+    "height": 200,
+    "source": "pants.png",
+    "bounds": [
+      119,
+      13,
+      381,
+      215
+    ],
+    "sha256": "290a8aaa1f7a0ee4831386e2921b361bc6802285752c2ab332a7d92c56860bf8"
+  },
+  "pants-0-side": {
+    "width": 147,
+    "height": 201,
+    "source": "pants.png",
+    "bounds": [
+      444,
+      11,
+      591,
+      212
+    ],
+    "sha256": "e28dba5fbed0a5ccb6b8c9e2a263745d7e54dd311cd7929511bfbf058cae2456"
+  },
+  "pants-0-back": {
+    "width": 260,
+    "height": 201,
+    "source": "pants.png",
+    "bounds": [
+      658,
+      12,
+      920,
+      215
+    ],
+    "sha256": "17089792138158393f55c34aceaab14884eac03e8ce301e5ad64b03f98cb2e54"
+  },
+  "pants-1-front": {
+    "width": 260,
+    "height": 178,
+    "source": "pants.png",
+    "bounds": [
+      99,
+      216,
+      397,
+      420
+    ],
+    "sha256": "11c52a019145c5229d822426f853d060d7d9622500db6961b61cd70382124bc8"
+  },
+  "pants-1-side": {
+    "width": 165,
+    "height": 205,
+    "source": "pants.png",
+    "bounds": [
+      438,
+      216,
+      603,
+      421
+    ],
+    "sha256": "1f02f5b2e0755edfed44c89d64cafffadfa78ad3668f7420a9c1e51f414e24f3"
+  },
+  "pants-1-back": {
+    "width": 260,
+    "height": 182,
+    "source": "pants.png",
+    "bounds": [
+      645,
+      215,
+      937,
+      419
+    ],
+    "sha256": "18892922014775aee81fd01b0d7ebe46ca47d8a845222bcfd85afa607a400f13"
+  },
+  "pants-2-front": {
+    "width": 260,
+    "height": 188,
+    "source": "pants.png",
+    "bounds": [
+      101,
+      423,
+      397,
+      637
+    ],
+    "sha256": "b34a6393729f4c982191cddddeb051965065108b15ff62e1317e32ea4b5a993f"
+  },
+  "pants-2-side": {
+    "width": 171,
+    "height": 210,
+    "source": "pants.png",
+    "bounds": [
+      432,
+      422,
+      603,
+      632
+    ],
+    "sha256": "4e3c416ff6135bb014cde303b7755cbbe193d0fe7a3b01ee4a875e5688663c6b"
+  },
+  "pants-2-back": {
+    "width": 260,
+    "height": 191,
+    "source": "pants.png",
+    "bounds": [
+      645,
+      424,
+      935,
+      637
+    ],
+    "sha256": "31f93a6d1bab7af7bf942baac51e6680db9e4ade3f1a300c2a4bc439dcff183a"
+  },
+  "pants-3-front": {
+    "width": 260,
+    "height": 172,
+    "source": "pants.png",
+    "bounds": [
+      97,
+      636,
+      403,
+      839
+    ],
+    "sha256": "4c9dc3243402c1a073b66e5bed35842c653faf57a4bc34221777d20518c6cd77"
+  },
+  "pants-3-side": {
+    "width": 175,
+    "height": 206,
+    "source": "pants.png",
+    "bounds": [
+      433,
+      635,
+      608,
+      841
+    ],
+    "sha256": "b544b8c050d5495c08967eb3709d0e20ffb081570c7ef115c2108db83fa72c65"
+  },
+  "pants-3-back": {
+    "width": 260,
+    "height": 180,
+    "source": "pants.png",
+    "bounds": [
+      645,
+      636,
+      940,
+      840
+    ],
+    "sha256": "3c3d3dbd4820fc927f9fdad759ebd6e8967d9c9f63a4bdeeaa7568e1be88e44c"
+  },
+  "pants-4-front": {
+    "width": 260,
+    "height": 174,
+    "source": "pants.png",
+    "bounds": [
+      91,
+      844,
+      410,
+      1057
+    ],
+    "sha256": "f89f6600f1e4f9fb30235b1ed3527e0258bed2c7715075f70670b5c7e75ed8f8"
+  },
+  "pants-4-side": {
+    "width": 184,
+    "height": 213,
+    "source": "pants.png",
+    "bounds": [
+      426,
+      843,
+      610,
+      1056
+    ],
+    "sha256": "0477d6d3411560519210aafd7b349e62f0dbd1062081c3765ab816a7c8410c03"
+  },
+  "pants-4-back": {
+    "width": 260,
+    "height": 176,
+    "source": "pants.png",
+    "bounds": [
+      633,
+      844,
+      947,
+      1057
+    ],
+    "sha256": "c13534c8c984e50e5aaa333d37d08e1e8fb72e171f4fe4103cdf1b8e5fe19822"
+  },
+  "pants-5-front": {
+    "width": 260,
+    "height": 177,
+    "source": "pants.png",
+    "bounds": [
+      90,
+      1047,
+      404,
+      1261
+    ],
+    "sha256": "d74f1be2b541b191a2feb35c54a1551b669d82c581838704e0ffcfa200038836"
+  },
+  "pants-5-side": {
+    "width": 198,
+    "height": 213,
+    "source": "pants.png",
+    "bounds": [
+      420,
+      1048,
+      618,
+      1261
+    ],
+    "sha256": "4449cdd7fd35fb94ea1deca675904e2fab2bc82905e0a7fdd67f9e5f19e8ef7d"
+  },
+  "pants-5-back": {
+    "width": 260,
+    "height": 177,
+    "source": "pants.png",
+    "bounds": [
+      634,
+      1047,
+      947,
+      1260
+    ],
+    "sha256": "0cc3e9beb3408a05ab48e2cec67b624d3b6e86ef73f9cd0e227499ccab5c42d2"
+  },
+  "pants-6-front": {
+    "width": 260,
+    "height": 196,
+    "source": "pants.png",
+    "bounds": [
+      85,
+      1259,
+      412,
+      1505
+    ],
+    "sha256": "31988163c55f12bf663cbad769f7bf2a1d32c94215a609564eb9d75286ef5d7c"
+  },
+  "pants-6-side": {
+    "width": 187,
+    "height": 247,
+    "source": "pants.png",
+    "bounds": [
+      425,
+      1259,
+      612,
+      1506
+    ],
+    "sha256": "9ce212c23ddcd6ef8e9511b497029e1fcf31b84551dfd9b6744c6d2b71f74a9e"
+  },
+  "pants-6-back": {
+    "width": 260,
+    "height": 208,
+    "source": "pants.png",
+    "bounds": [
+      638,
+      1258,
+      948,
+      1506
+    ],
+    "sha256": "f4468791350acc6f0a4c3656b15705823fbc3b309083420f0cf20137971c68ce"
+  },
+  "boots-0-front": {
+    "width": 145,
+    "height": 216,
+    "source": "boots.png",
+    "bounds": [
+      98,
+      10,
+      243,
+      226
+    ],
+    "sha256": "40856d453e91b1467e5355ffbf28564a0768fbdd0d1711ba3858863b0dbd4769"
+  },
+  "boots-0-side": {
+    "width": 247,
+    "height": 209,
+    "source": "boots.png",
+    "bounds": [
+      360,
+      12,
+      607,
+      221
+    ],
+    "sha256": "03b359f9e8d990bd75a180038b841867b4b25d85a4b75a9b897e736638b8b7cb"
+  },
+  "boots-0-back": {
+    "width": 156,
+    "height": 217,
+    "source": "boots.png",
+    "bounds": [
+      704,
+      9,
+      860,
+      226
+    ],
+    "sha256": "926cb999550076dc4170b02bb9cc3865914273c82a55003136430fc8dd661c56"
+  },
+  "boots-1-front": {
+    "width": 250,
+    "height": 216,
+    "source": "boots.png",
+    "bounds": [
+      45,
+      230,
+      295,
+      446
+    ],
+    "sha256": "dba884ffc5dd45b7816440ab8218c3e46addf0a611d53a1bcc7a1ca48554ee8d"
+  },
+  "boots-1-side": {
+    "width": 240,
+    "height": 215,
+    "source": "boots.png",
+    "bounds": [
+      366,
+      229,
+      606,
+      444
+    ],
+    "sha256": "0d9be5614de74612d1ac93fa226319dc7da020d5093e7d6b36d3a16fb25d9c85"
+  },
+  "boots-1-back": {
+    "width": 243,
+    "height": 215,
+    "source": "boots.png",
+    "bounds": [
+      658,
+      230,
+      901,
+      445
+    ],
+    "sha256": "d00669b7e5249d85680c8552a1488968569d1f04a5b963624518155312f02d38"
+  },
+  "boots-2-front": {
+    "width": 245,
+    "height": 219,
+    "source": "boots.png",
+    "bounds": [
+      52,
+      449,
+      297,
+      668
+    ],
+    "sha256": "ac63a5733635dac9f1933f878f89cc21fc3de881402ff1db553091b3b90e5aa6"
+  },
+  "boots-2-side": {
+    "width": 246,
+    "height": 216,
+    "source": "boots.png",
+    "bounds": [
+      366,
+      448,
+      612,
+      664
+    ],
+    "sha256": "98ff7544b1bafcaacc471fb3c540757c78427d92fffe78b3d65c277933ac185e"
+  },
+  "boots-2-back": {
+    "width": 233,
+    "height": 220,
+    "source": "boots.png",
+    "bounds": [
+      664,
+      448,
+      897,
+      668
+    ],
+    "sha256": "c19179f5bf0788b29a245bba5c0cad8a2c91cd2776a8cfc57be2dee3ecde22d9"
+  },
+  "boots-3-front": {
+    "width": 260,
+    "height": 217,
+    "source": "boots.png",
+    "bounds": [
+      38,
+      671,
+      303,
+      892
+    ],
+    "sha256": "f4d5ab50f4e9f1d7f03939611bbb96aec893604ecbb0c873e3720d26310841bb"
+  },
+  "boots-3-side": {
+    "width": 260,
+    "height": 214,
+    "source": "boots.png",
+    "bounds": [
+      355,
+      671,
+      615,
+      885
+    ],
+    "sha256": "3b35b70d9c48b9d3cf61c4fad3cb24c845e8c59076385f9d127a5e01e7a06165"
+  },
+  "boots-3-back": {
+    "width": 260,
+    "height": 213,
+    "source": "boots.png",
+    "bounds": [
+      645,
+      671,
+      915,
+      892
+    ],
+    "sha256": "5b53b8c8c0a9024fdb3a1b603f419bf45ec229c12a9b8be85b30bd9e04a83fd7"
+  },
+  "boots-4-front": {
+    "width": 260,
+    "height": 219,
+    "source": "boots.png",
+    "bounds": [
+      33,
+      896,
+      309,
+      1128
+    ],
+    "sha256": "fdc40325dcfe9af1843d93cfb30b10d2686a99b9d2b9bf8d6d7aec0a5138ee44"
+  },
+  "boots-4-side": {
+    "width": 260,
+    "height": 221,
+    "source": "boots.png",
+    "bounds": [
+      351,
+      897,
+      617,
+      1123
+    ],
+    "sha256": "a5f046b8c999b2288a9869230285cf04da58edff10a401fe91da2c2a2439f896"
+  },
+  "boots-4-back": {
+    "width": 259,
+    "height": 235,
+    "source": "boots.png",
+    "bounds": [
+      650,
+      895,
+      909,
+      1130
+    ],
+    "sha256": "2f870abfbb74e42a37aac5bb05ec8f7c4b57bad28552db359310eb9efad7cd3a"
+  },
+  "boots-5-front": {
+    "width": 224,
+    "height": 233,
+    "source": "boots.png",
+    "bounds": [
+      58,
+      1131,
+      282,
+      1364
+    ],
+    "sha256": "7dec410f3a7b379d39394c89c9cd2de80bba0e3b80d4ec1f37871f433bde9be4"
+  },
+  "boots-5-side": {
+    "width": 253,
+    "height": 226,
+    "source": "boots.png",
+    "bounds": [
+      364,
+      1132,
+      617,
+      1358
+    ],
+    "sha256": "c20aabeb04aeca1e0d8a1d24aa8cd1c0abcd7cde1bd00d696bc19cd3d7e35599"
+  },
+  "boots-5-back": {
+    "width": 210,
+    "height": 232,
+    "source": "boots.png",
+    "bounds": [
+      677,
+      1131,
+      887,
+      1363
+    ],
+    "sha256": "559a7a1bf4fc784ba1d9ec2b8f780e5f2dfcb4319631a8b11dadf2486b135332"
+  },
+  "boots-6-front": {
+    "width": 260,
+    "height": 240,
+    "source": "boots.png",
+    "bounds": [
+      29,
+      1369,
+      313,
+      1631
+    ],
+    "sha256": "b5a3ceec8b211bfb01c0f1252aa212fe6128df867f043719c998248037338cc2"
+  },
+  "boots-6-side": {
+    "width": 260,
+    "height": 239,
+    "source": "boots.png",
+    "bounds": [
+      349,
+      1367,
+      618,
+      1614
+    ],
+    "sha256": "9505b11dc70f1593338b25b5bb7e2d8b076ce8dc8075111c998342c8f5f9aa92"
+  },
+  "boots-6-back": {
+    "width": 260,
+    "height": 244,
+    "source": "boots.png",
+    "bounds": [
+      641,
+      1369,
+      919,
+      1630
+    ],
+    "sha256": "60af5b99d9bb750e6a9105bd20dc17bf74b4c2c27703ad552573fd02fa736c56"
+  }
+}

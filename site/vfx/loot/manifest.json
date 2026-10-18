@@ -1,0 +1,74 @@
+{
+  "0": {
+    "file": "loot-0.webp",
+    "w": 128,
+    "h": 384,
+    "cols": 6,
+    "frames": 24,
+    "fps": 12,
+    "pivotX": 0.5,
+    "pivotY": 0.9166666666666666,
+    "sha256": "da19ced3cf2758da9b4d7fec449714c39c8e0ee367dd2b86a9b71f6c2bd7b58d",
+    "bytes": 164246
+  },
+  "1": {
+    "file": "loot-1.webp",
+    "w": 128,
+    "h": 384,
+    "cols": 6,
+    "frames": 24,
+    "fps": 12,
+    "pivotX": 0.5,
+    "pivotY": 0.9166666666666666,
+    "sha256": "6ce258288c9d04fa59c669a3a2bd8b15b15479590757e588f55a25a0063908a9",
+    "bytes": 228410
+  },
+  "2": {
+    "file": "loot-2.webp",
+    "w": 128,
+    "h": 384,
+    "cols": 6,
+    "frames": 24,
+    "fps": 12,
+    "pivotX": 0.5,
+    "pivotY": 0.9166666666666666,
+    "sha256": "604fe46f35bd27924e84d090d22ec72271234c3184f6255a38e05558df80e650",
+    "bytes": 258508
+  },
+  "3": {
+    "file": "loot-3.webp",
+    "w": 128,
+    "h": 384,
+    "cols": 6,
+    "frames": 24,
+    "fps": 12,
+    "pivotX": 0.5,
+    "pivotY": 0.9166666666666666,
+    "sha256": "5167209c1509317499b7ddc2fe20856335dbc9c638f2724845298ef929739206",
+    "bytes": 272784
+  },
+  "4": {
+    "file": "loot-4.webp",
+    "w": 128,
+    "h": 384,
+    "cols": 6,
+    "frames": 24,
+    "fps": 12,
+    "pivotX": 0.5,
+    "pivotY": 0.9166666666666666,
+    "sha256": "69431268847a2eec0a67bd46f253bd0ff096f6dadbc203e94e4733f8068cfb42",
+    "bytes": 285100
+  },
+  "5": {
+    "file": "loot-5.webp",
+    "w": 128,
+    "h": 384,
+    "cols": 6,
+    "frames": 24,
+    "fps": 12,
+    "pivotX": 0.5,
+    "pivotY": 0.9166666666666666,
+    "sha256": "7eb2c14ddbe6c775dd1bcfa31e5d9259c558e8fb40abc1919cc35684861deb08",
+    "bytes": 282108
+  }
+}
