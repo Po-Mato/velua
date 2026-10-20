@@ -1,5 +1,9 @@
 {
-  "sourceDigest": "35f785269f1b6782ffe05379e178d31d493627ab0d2eabc1661d02439a344d71",
+  "sourceDigest": "dfe12ec97e83f1b28a09c37cb20a59afd07908c3fb601001999174ac47b6ec4c",
   "base": "/velua/",
-  "localTests": 342
+  "verification": {
+    "relatedNodeTests": 18,
+    "outfitFaceCases": 2646
+  },
+  "change": "Restore face above equipped collars"
 }
