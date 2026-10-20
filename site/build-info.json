@@ -1,9 +1,10 @@
 {
-  "sourceDigest": "dfe12ec97e83f1b28a09c37cb20a59afd07908c3fb601001999174ac47b6ec4c",
+  "sourceDigest": "0aeb8f3c8dda9ea8f937f72327c94a998a104550dbe6114e9c636ffcb211bf9b",
   "base": "/velua/",
+  "localTests": 350,
   "verification": {
-    "relatedNodeTests": 18,
-    "outfitFaceCases": 2646
+    "postEditRelatedTests": 10,
+    "eightHourRealSaveMs": 3849
   },
-  "change": "Restore face above equipped collars"
+  "change": "Bound long idle settlement, protect pre-idle saves and handle worker failures"
 }
